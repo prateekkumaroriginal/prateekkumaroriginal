@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateekkumaroriginal
+- 👋 Hi, I’m Prateek Kumar
 - 👀 I’m interested in learning progrmming
 - 🌱 I’m currently learning Machine Learning
 - ❤ I'm skilled in Python Programming(Advanced)
