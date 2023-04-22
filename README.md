@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @prateekkumaroriginal
 - 👀 I’m interested in learning progrmming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email me at superbanno999@gmail.com
+- 🌱 I’m currently learning Machine Learning
+- ❤ I'm skilled in Python Programming(Advanced)
+- 💞️ I’m looking to collaborate on any Projects you got for me
+- 📫 How to reach me : email me at prateek.kumar.original@gmail.com
 
 <!---
 prateekkumaroriginal/prateekkumaroriginal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
